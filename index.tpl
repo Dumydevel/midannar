@@ -8,14 +8,14 @@
 <body>
 	<h1>Söluaðilar eldsneytis á Íslandi</h1>
 	<div class="image">
-		<img src="/myndircss/AO.png">
-		<img src="/myndircss/Costco.png">
+		<img src="/myndircss/ao.png">
+		<img src="/myndircss/costco.png">
 		<img src="/myndircss/daelan.png">
-		<img src="/myndircss/N1.png">
-		<img src="/myndircss/OB.png">
+		<img src="/myndircss/n1.png">
+		<img src="/myndircss/ob.png">
 		<img src="/myndircss/olis.png">
-		<img src="/myndircss/Orkan.png">
-		<img src="/myndircss/Orkanx.png">
+		<img src="/myndircss/orkan.png">
+		<img src="/myndircss/orkanx.png">
 		<img src="/myndircss/skeljungur.png">
 	</div>
 	
